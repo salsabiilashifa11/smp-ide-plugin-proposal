@@ -4,10 +4,10 @@ Author: [@salsabiilashifa11](https://github.com/salsabiilashifa11)<br>
 Upstream issue: [service-mesh-performance/service-mesh-performance#379](https://github.com/service-mesh-performance/service-mesh-performance/issues/379)
 
 ## Contents
-[1. Background](!#1.-Background)<br>
-[2. Objectives](!#2.-Objectives)<br>
-[3. Proposal](!#3.-Proposal)<br>
-[4. Experimental Implementation](!#4.-Initial-Experimentation)<br>
+[1. Background](!#1.-background)<br>
+[2. Objectives](!#2.-objectives)<br>
+[3. Proposal](!#3.-proposal)<br>
+[4. Initial Experimentation](!#4.-initial-experimentation)<br>
 
 ## 1. Background
 Currently, users can define SMP profile and models using YAML or JSON files on their own IDEs. However there isn't currently any IDE extensions that can improve developer experience when working with these components. 
