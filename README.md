@@ -1,0 +1,1 @@
+# smp-ide-plugin-proposal
