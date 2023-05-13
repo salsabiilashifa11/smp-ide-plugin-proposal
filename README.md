@@ -4,10 +4,11 @@ Author: [@salsabiilashifa11](https://github.com/salsabiilashifa11)<br>
 Upstream issue: [service-mesh-performance/service-mesh-performance#379](https://github.com/service-mesh-performance/service-mesh-performance/issues/379)
 
 ## Contents
-[1. Background](!#1.-background)<br>
-[2. Objectives](!#2.-objectives)<br>
-[3. Proposal](!#3.-proposal)<br>
-[4. Initial Experimentation](!#4.-initial-experimentation)<br>
+[1. Background](#1.-background)<br>
+[2. Objectives](#2.-objectives)<br>
+[3. Proposal](#3.-proposal)<br>
+[4. Initial Experimentation](#4.-initial-experimentation)<br>
+[5. References](#5.-references)<br>
 
 ## 1. Background
 Currently, users can define SMP profile and models using YAML or JSON files on their own IDEs. However there isn't currently any IDE extensions that can improve developer experience when working with these components. 
@@ -71,3 +72,10 @@ duration: 30s
 ```
 
 https://github.com/salsabiilashifa11/smp-ide-plugin-proposal/assets/68501885/c81053c2-338b-4b45-9400-1f6cc0dabdaf
+
+## 5. References
+* https://code.visualstudio.com/api/language-extensions/language-server-extension-guide#why-language-server
+* https://www.npmjs.com/package/vscode-languageserver
+* https://smp-spec.io/
+* https://meshery.io/
+
